@@ -1,4 +1,4 @@
-# Natural-Language-Processing
+# Natural Language Processing
 
 Presentation on **"A Sneak Peek into NLP"** in Swift Developers Meetup, Aug 2018 @ Bengaluru
 
